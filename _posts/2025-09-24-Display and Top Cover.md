@@ -1,6 +1,6 @@
 ---
 title: Display and Top Cover
-date: 2025-09-24 21:00 -0500
+date: 2025-09-25 00:10 -0500
 tags: [cad, chassis, display]
 media_subpath: /assets/2025-09-24-Display-and-Top-Cover/
 ---
