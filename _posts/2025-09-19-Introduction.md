@@ -1,7 +1,8 @@
 ---
-title: "ReFrame 18 Introduction"
+title: ReFrame 18 Introduction
 date: 2025-09-19 18:50 -0500
 pin: true
+toc: false
 ---
 
 ## What is this?
