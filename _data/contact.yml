@@ -15,9 +15,9 @@
   noblank: true
 # Uncomment and complete the url below to enable more contact options
 
-- type: discord
-  icon: "fab fa-discord"
-  url: 'https://discord.com/users/416256517348524043'
+# - type: discord
+#   icon: "fab fa-discord"
+#   url: 'https://discord.com/users/416256517348524043'
 
 #
 # - type: mastodon
